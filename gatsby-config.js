@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://alxshelepenok.github.com/gatsby-starter-lumen',
+    url: 'http://www.reactless.com/',
     title: '< ReactLess />',
-    subtitle: 'An exploration of solutions with React - React Native - Serverless.',
+    subtitle: 'Building big beautiful solutions with React - React Native - Serverless.',
     copyright: '©2017 All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -122,7 +122,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: ''
+        trackingId: 'UA-110199676-1'
       }
     },
     {
